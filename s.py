@@ -69,7 +69,7 @@ LINKS = {}
 
 # VPS Configuration
 VPS_FILE = "vps.txt"
-BINARY_NAME = "soul"
+BINARY_NAME = "bgmi"
 BINARY_PATH = f"/home/master/{BINARY_NAME}"
 VPS_LIST = []
 
