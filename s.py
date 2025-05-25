@@ -45,11 +45,11 @@ BOT_CONFIG_FILE = "bot_configs.json"
 BOT_DATA_DIR = "bot_data"  # Directory to store each bot's data
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '7052787265:AAHF9957hIRSGZtaENdHZAA_9Cx0iROS9k0'
+TELEGRAM_BOT_TOKEN = '@Newprivate11bot'
 OWNER_ID = 6882674372  # 👈 Put your real Telegram user ID here
 CO_OWNERS = []  # List of user IDs for co-owners
 OWNER_CONTACT = "Contact to buy keys"
-ALLOWED_GROUP_IDS = [-1002569945697,-1002267337768]
+ALLOWED_GROUP_IDS = [-1002569945697,-1002267337768,-4664469503]
 MAX_THREADS = 1000
 max_duration = 120
 bot_open = False
