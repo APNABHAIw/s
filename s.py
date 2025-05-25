@@ -21,7 +21,7 @@ logging.basicConfig(
 )
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = 7673615517:AAHC_RCOOM-1pCUmvP2Bqm83-V9aA2XFhW8''
+TELEGRAM_BOT_TOKEN = '7673615517:AAHC_RCOOM-1pCUmvP2Bqm83-V9aA2XFhW8'
 OWNER_USERNAME = "LASTWISHES0"
 CO_OWNERS = []  # List of user IDs for co-owners
 OWNER_CONTACT = "Contact @LASTWISHES0 to buy keys"
